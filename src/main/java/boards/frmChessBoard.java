@@ -46,14 +46,6 @@ public class frmChessBoard extends JFrame implements MouseListener
 
     private Container c;
 
-    public static void main(String[] args)
-
-    {
-
-        final frmChessBoard app = new frmChessBoard();
-
-    }
-
     // the whole constructor is for setting up the UI of the form
 
     public frmChessBoard()
@@ -410,13 +402,13 @@ public class frmChessBoard extends JFrame implements MouseListener
         int yCoordinateTo = getYCoordinate(to);
         this.pntMoveFrom = new Point(xCoordinateFrom, yCoordinateFrom);
         this.pntMoveTo = new Point(xCoordinateTo, yCoordinateTo);
+        System.out.println("from: "+ pntMoveFrom.toString() + "  to: " + pntMoveTo.toString());
         moveChessPiece();
-
     }
 
     private int getYCoordinate(String coordinate) {
         char yCoord = coordinate.charAt(1);
-        return Character.getNumericValue(yCoord);
+        return Character.getNumericValue(yCoord)-1;
     }
     //Kim Sandberg
     private int getXCoordinate(String coordinate) {

@@ -11,11 +11,13 @@ public class Main {
 
     public static void main(String[] args) {
         // Creates a new chessboard in the standard initial position
-        frmChessBoard GUIboard = new frmChessBoard();
+        final frmChessBoard GUIboard = new frmChessBoard();
         Board board = new Board();
 
         //Make a move from E2 to E4 squares
-        GUIboard.doMove("e2e4");
+        GUIboard.doMove("e7e2");
+        GUIboard.doMove("e2e3");
+        GUIboard.doMove("e8f4");
         board.doMove(new Move(Square.E2, Square.E4));
 
         //print the chessboard in a human-readable form
