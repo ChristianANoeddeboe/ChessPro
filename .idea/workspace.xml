@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6293472f-e3f9-4254-866b-be650af71a37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iuYqZE8n8rTybwCzDMiFfFH1bY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ChessPro.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6293472f-e3f9-4254-866b-be650af71a37" name="Default Changelist" comment="" />
+      <created>1602759137757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602759137757</updated>
+      <workItem from="1602759139500" duration="7283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602760396536">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="453" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1602760396536" />
+    <state width="1296" height="246" key="GridCell.Tab.0.bottom" timestamp="1602767206216">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1296" height="246" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1602767206216" />
+    <state width="1296" height="246" key="GridCell.Tab.0.center" timestamp="1602767206215">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1296" height="246" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1602767206215" />
+    <state width="1296" height="246" key="GridCell.Tab.0.left" timestamp="1602767206214">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1296" height="246" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1602767206214" />
+    <state width="1296" height="246" key="GridCell.Tab.0.right" timestamp="1602767206215">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1296" height="246" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1602767206215" />
+    <state width="1296" height="280" key="GridCell.Tab.1.bottom" timestamp="1602766798109">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1296" height="280" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1602766798109" />
+    <state width="1296" height="280" key="GridCell.Tab.1.center" timestamp="1602766798108">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1296" height="280" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1602766798108" />
+    <state width="1296" height="280" key="GridCell.Tab.1.left" timestamp="1602766798108">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1296" height="280" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1602766798108" />
+    <state width="1296" height="280" key="GridCell.Tab.1.right" timestamp="1602766798108">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1296" height="280" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1602766798108" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/boards/frmChessBoard.java</url>
+          <line>418</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="coordinate.charAt(0)" />
+        <watch expression="move.substring(2,4)" language="JAVA" />
+        <watch expression="String.valueOf(coordinate.indexOf(1))" language="JAVA" />
+        <watch expression="coordinate.indexOf(0)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
